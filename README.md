@@ -51,6 +51,7 @@
  
  - labels/val/對應圖片位置文字檔(car1.txt)
 
+#### 舉例
 ![image](https://github.com/05ki19lj/AI_YOLO/blob/main/data_yaml.png )
 
 #### 測試練習的檔案位置
