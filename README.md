@@ -40,6 +40,19 @@
 先載入已經準備好的模型，接著把資料交給電腦進行學習。電腦會反覆觀看圖片，嘗試記住每種物體的外觀特徵。
 
 由於本專題以測試為主，學習次數設定較少，但仍可以看到基本的辨識效果。如果增加學習時間與資料數量，成果會更加準確。
+### 遇到的問題
+資料需要在其他地方放置
+
+位置如下:
+
+ - 設置data.yaml檔
+  
+ - images/val/照片(car1.jpg)
+ 
+ - labels/val/對應圖片位置文字檔(car1.txt)
+
+![image](https://github.com/05ki19lj/AI_YOLO/blob/main/data_yaml.png )
+
 #### 測試練習的檔案位置
 ![image](https://github.com/05ki19lj/AI_YOLO/blob/main/%E6%B8%AC%E8%A9%A6%E6%AA%94%E6%A1%88%E4%BD%8D%E7%BD%AE.png)
 
